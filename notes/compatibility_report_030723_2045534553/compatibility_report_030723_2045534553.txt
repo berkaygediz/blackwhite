@@ -1,0 +1,19 @@
+Converting GML script: ${project_dir}\objects\oyuncu\Step_0.gml
+Converted string - line 1: 'A' -> "A"
+Converted string - line 2: 'D' -> "D"
+Converted string - line 3: 'S' -> "S"
+Converted string - line 4: 'W' -> "W"
+
+Missing audiogroup for sound: 'subliminal0' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_draw_sprite.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_fullscreen.gml'
+Added compatibility script 'action/action_message.gml'
+Added compatibility script 'action/action_move.gml'
+Added compatibility script 'action/action_set_cursor.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
